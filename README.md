@@ -1,4 +1,3 @@
-![ezgif com-resize](https://github.com/avinashkr7/avinashkr7/assets/118923593/6b57c64f-03e6-4614-a741-99c8d30f8bef)
 ![ezgif com-resize](https://github.com/avinashkr7/avinashkr7/assets/118923593/cb20a7e7-cf09-4acd-a8cb-40b420dab4c5)
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Front end developer </h3>
